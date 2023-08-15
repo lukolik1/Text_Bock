@@ -1,0 +1,8 @@
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\bin\Debug\Примеры 1-4.exe.config
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\bin\Debug\Примеры 1-4.exe
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\bin\Debug\Примеры 1-4.pdb
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\obj\Debug\Примеры 1-4.csproj.AssemblyReference.cache
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\obj\Debug\Примеры 1-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\obj\Debug\Примеры 1-4.csproj.CoreCompileInputs.cache
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\obj\Debug\Примеры 1-4.exe
+C:\Users\GL 72 7QF\Desktop\Отчёт_3симестр\5 лабораторная работа\Примеры 1-4\Примеры 1-4\obj\Debug\Примеры 1-4.pdb
